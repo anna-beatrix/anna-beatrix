@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning C++ & JS
 - 💞️ I’m looking to collaborate on unpaid training or project
-- 📫 You can contact me by WA on +6282113132104
+- 📫 You can contact me by email at wikubangun.anna@gmail.com
 
 <p align="left">
 <a href="https://github.com/anna-beatrix">
