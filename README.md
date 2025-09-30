@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anna-beatrix
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning C++ & JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on unpaid training or project
 - 📫 You can contact me by email at wikubangun.anna@gmail.com
 
